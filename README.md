@@ -36,6 +36,9 @@ Idea is wip
 Profile-page:
 Idea is wip
 
+https://docs.google.com/document/d/1oLHKa0r96_1t_FXZD5-W_vqpzUDku4BQbFqfb98EoyI/edit
+
+https://github.com/FrederikTC/DLS-OutdoorDK
 
 
 
